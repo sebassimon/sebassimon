@@ -21,9 +21,9 @@
 
 <h2>📺 Medium Articles</h2>
 
-- [Active Directory — Virtualbox](https://medium.com/@sebastienwebdev/active-directory-virtualbox-016736416772)
-- [Deploying a Wazuh Intrusion Detection System on Linode and Azure](https://medium.com/@sebastienwebdev/deploying-a-wazuh-intrusion-detection-system-on-linode-and-azure-59a7dbc16ac1)
-- [Exploit Apache HTTP Server Vulnerabilities](https://medium.com/@sebastienwebdev/exploit-apache-http-server-vulnerabilities-a18049ee1f05)
-- [File Integrity Monitor in Python: A Beginner’s Guide](https://medium.com/@sebastienwebdev/file-integrity-monitor-in-python-a-beginners-guide-fedefc9d9284)
-- [Azure Sentinel — Honeypot](https://medium.com/@sebastienwebdev/azure-sentinel-honeypot-522959b7b734)
-- [Nessus Tutorial for Beginners: Vulnerability Management](https://medium.com/@sebastienwebdev/nessus-tutorial-for-beginners-vulnerability-management-3f4ca4cf330f)
+- [SQL Journey Through Music Analytics](https://medium.com/@sebastienwebdev/sql-journey-through-music-analytics-363f5e3bc98b)
+- [Forecasting Weather Patterns with LSTM: A Python Guide Without Dates](https://medium.com/@sebastienwebdev/forecasting-weather-patterns-with-lstm-a-python-guide-without-dates-433f0356136c)
+- [Social Media Insights](https://medium.com/@sebastienwebdev/social-media-insights-08d583dbce36)
+- [Secrets of Video Game Sales](https://medium.com/@sebastienwebdev/secrets-of-video-game-sales-204ac86a4acd)
+- [Analyzing Netflix Movies: Insights from IMDb Ratings](https://medium.com/@sebastienwebdev/analyzing-netflix-movies-insights-from-imdb-ratings-647140c8f6ca)
+- [Sentiment Analysis on E-Commerce Reviews](https://medium.com/@sebastienwebdev/sentiment-analysis-on-e-commerce-reviews-c3c42edffb13)
